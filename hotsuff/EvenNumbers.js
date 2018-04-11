@@ -26,3 +26,14 @@ var evenNumbers = function(nums) {
 evenNumbers(nums);
 alert(evens);
 alert(odds);
+
+
+var fortunes = [{
+    name: 'Tabatha',
+    age: 42
+  },
+  {
+    name: 'Rose',
+    age: 81
+  }
+];
